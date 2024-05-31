@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-apps/static/js/main.292674fa.js",
+    "static/media/licenseApp.png": "/react-apps/static/media/licenseApp.19a4689629bd5521b0f4.png",
+    "static/media/licenseApp2.png": "/react-apps/static/media/licenseApp2.e47b6f24ba078ca38e8c.png",
+    "static/media/licenseApp3.jpeg": "/react-apps/static/media/licenseApp3.f167012ebba765ac6c3c.jpeg",
+    "index.html": "/react-apps/index.html",
+    "main.292674fa.js.map": "/react-apps/static/js/main.292674fa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.292674fa.js"
+  ]
+}
